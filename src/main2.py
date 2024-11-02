@@ -15,4 +15,4 @@ accuracy=accuracy_score(y,y_pred)
 
 print(f"Accuracy:{accuracy}")
 
-
+print(f"The model is more Accurate")
